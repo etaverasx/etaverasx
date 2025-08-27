@@ -1,7 +1,7 @@
 <h1>Hi, I'm Emmanuel! <br/><a href="https://https://github.com/etaverasx">Cybersecurity Student</a> <a href=""></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-(Test) [https://github.com/etaverasx/test]
+
 <h2>📄 Certifications:</h2>
 
 
