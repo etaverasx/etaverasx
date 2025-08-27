@@ -1,7 +1,7 @@
 <h1>Hi, I'm Emmanuel! <br/><a href="https://https://github.com/etaverasx">Cybersecurity Student</a> <a href=""></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- [Assessing network with Wireshark and Zenmap](https://github.com/etaverasx/assessing-network-with-wireshark-and-zenmap)<h2>🤖 Machine Learning Projects:</h2>
+<p>Wireshark & Zenmap <br/><a href="https://github.com/etaverasx/assessing-network-with-wireshark-and-zenmap"> <a href=""></p>
 
 <h2>📄 Certifications:</h2>
 
