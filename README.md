@@ -8,7 +8,7 @@
 <h4><a href="https://www.credly.com/earner/earned/badge/f079ac3d-8d2c-4cba-bd72-64840ec8d7e4")>Certified in Cybersecurity (CC)</a></h4>
 
 <h2>⚙️ AI/ML Projects:</h2>
-
+<h4><a href="https://github.com/etaverasx/Disinformation-Detection-in-News-Articles-Using-Machine-Learning")>Disinformation-Detection-in-News-Articles-Using-Machine-Learning</a></h4>
 
 
 
