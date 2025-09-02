@@ -9,6 +9,9 @@
 <h4><a href="https://www.credly.com/earner/earned/badge/c6050e35-4538-44a9-8a56-53f405cd5e94")>CompTIA Security+ ce</a></h4>
 <h4><a href="https://www.credly.com/earner/earned/badge/f079ac3d-8d2c-4cba-bd72-64840ec8d7e4")>Certified in Cybersecurity (CC)</a></h4>
 
+<p align="center">
+  <img src="https://github.com/etaverasx/etaverasx/blob/main/CompTIA%20Security+%20ce%20certificate.png?raw=true" alt="CompTIA Security+ Certification" width="250">
+</p>
 <h2>⚙️ AI/ML Projects:</h2>
 <h4><a href="https://github.com/etaverasx/Disinformation-Detection-in-News-Articles-Using-Machine-Learning")>Disinformation-Detection-in-News-Articles-Using-Machine-Learning</a></h4>
 <h2>Connect with me:</h2>
