@@ -1,5 +1,7 @@
-<h1>Hi, I'm Emmanuel! <br/><a href="https://https://github.com/etaverasx">Cybersecurity Student</a></h1>
-
+<h1>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWcwbDB3aXc5aXRzOXI1a2k3czRoNDBqa2FkZ3phdWRhMnNrMjBuMCZlcD12MV9pbnRlcm5hbF9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wtdVYmaRWJ1PyPcc8e/giphy.gif" width="70"> 
+  Hi, I'm Emmanuel!
+</h1>
 
 
 </a><h2>👨‍💻 Cybersecurity Projects:</h2>
