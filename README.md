@@ -9,13 +9,3 @@
 
 <h2>⚙️ AI/ML Projects:</h2>
 <h4><a href="https://github.com/etaverasx/Disinformation-Detection-in-News-Articles-Using-Machine-Learning")>Disinformation-Detection-in-News-Articles-Using-Machine-Learning</a></h4>
-
-
-
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="EmmanuelTaveras | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://www.linkedin.com/in/emmanuel-taveras/
