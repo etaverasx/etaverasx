@@ -5,28 +5,54 @@
 
 
 </a><h2>👨‍💻 Cybersecurity Projects:</h2>
-<h4><a href="https://github.com/etaverasx/Assessing-Network-with-Wireshark-and-Zenmap")>Assessing Network with Wireshark and Zenmap</a></h4>
-
-<td width="33%" align="center">
-  <a href="YOUR_PROJECT_LINK">
-    <img src="YOUR_THUMBNAIL_IMAGE_LINK" width="100%" alt="Project Thumbnail"/>
-    <br/>
-    <b>Project Title</b>
-  </a>
-  <br/>
-  <p>A short description of your project.</p>
-</td>
+<h4>Work in Pogress</h4>
 
 </p>
 <h2>⚙️ AI/ML Projects:</h2>
-<h4><a href="https://github.com/etaverasx/Disinformation-Detection-in-News-Articles-Using-Machine-Learning")>Disinformation-Detection-in-News-Articles-Using-Machine-Learning</a></h4>
+
+
+<div align="left">
+
+<table>
+<tr>
+<td style="border: 3px solid #ffffff; border-radius: 8px; padding: 10px; max-width: 280px; background: linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05));">
+
+<div align="center">
+
+<a href="https://github.com/etaverasx/Disinformation-Detection-in-News-Articles-Using-Machine-Learning">
+<img src="https://github.com/etaverasx/etaverasx/blob/main/Disinformation-Cover.png?raw=true" width="250" alt="Disinformation Detection ML Project">
+</a>
+
+---
+
+#### 🔍 Disinformation Detection ML
+
+[![Python](https://img.shields.io/badge/Python-ML-3776AB?style=flat-square&logo=python)](https://github.com/etaverasx/Disinformation-Detection-in-News-Articles-Using-Machine-Learning) [![Status](https://img.shields.io/badge/Status-Complete-28a745?style=flat-square)](https://github.com/etaverasx/Disinformation-Detection-in-News-Articles-Using-Machine-Learning)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+
 
 <h2>📄 Certifications:</h2>
-  <p align="center">
-  <img src="https://github.com/etaverasx/etaverasx/blob/main/CompTIA%20Security+%20ce%20certificate.png?raw=true" alt="CompTIA Security+ Certification" width="350">
-  &nbsp;&nbsp;&nbsp;
+ <p align="left">
+  <a href="https://github.com/etaverasx/etaverasx/blob/main/CompTIA%20Security+%20ce%20certificate.png?raw=true">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c3YWlzZWt1bzQ2YzAzM241ZHd6YnkxeWx6eDhkeW0wZDIzZTNxaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0b1qyHhqfjKdnLqrF4/giphy.gif" width="300" alt="View Certificate">
+  </a>
+</p>
   <img src="https://github.com/etaverasx/etaverasx/blob/main/ISC2%20-%20CC.png?raw=true" alt="ISC2 Certified in Cybersecurity" width="350">
 </p>
+
+
+
+
 
 <h2>Connect with me:</h2>
 
