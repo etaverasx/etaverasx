@@ -7,7 +7,15 @@
 </a><h2>👨‍💻 Cybersecurity Projects:</h2>
 <h4><a href="https://github.com/etaverasx/Assessing-Network-with-Wireshark-and-Zenmap")>Assessing Network with Wireshark and Zenmap</a></h4>
 
-
+<td width="33%" align="center">
+  <a href="YOUR_PROJECT_LINK">
+    <img src="YOUR_THUMBNAIL_IMAGE_LINK" width="100%" alt="Project Thumbnail"/>
+    <br/>
+    <b>Project Title</b>
+  </a>
+  <br/>
+  <p>A short description of your project.</p>
+</td>
 
 </p>
 <h2>⚙️ AI/ML Projects:</h2>
