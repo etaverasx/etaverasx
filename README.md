@@ -1,9 +1,6 @@
 <h1 align="left">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWcwbDB3aXc5aXRzOXI1a2k3czRoNDBqa2FkZ3phdWRhMnNrMjBuMCZlcD12MV9pbnRlcm5hbF9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wtdVYmaRWJ1PyPcc8e/giphy.gif" width="100"> 
   Hi, I'm Emmanuel!  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ttZmJ1a295djB0Mzc1czgyZmRpNTF0anhoYnZuZmJoNDV3OGZveSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SuZY20qLNE3Hq/giphy.gif" width="200"> 
-</h1>
-<h2>   A<br>B<br>O<br>U<br>T<br><br>M<br>E </h2>
-
    
 
 
@@ -11,18 +8,20 @@
 <h4>Work in Pogress</h4>
 
 </p>
+
+------------------------------------
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnoyODR2aWVsdzMxaDN0aWFuc2F6MTA2ZWIyNDY4cXB6dXhhcTJsMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zN2IXI0TEnalqdlCkZ/giphy.gif" height="70" style="vertical-align:middle;"> ⚙️ AI/ML Projects:</h2>
 
 <div align="left">
 
 <table>
 <tr>
-<td style="border: 3px solid #ffffff; border-radius: 8px; padding: 10px; max-width: 280px; background: linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05));">
+<td style="border: 7px solid #ffffff; border-radius: 8px; padding: 10px; max-width: 280px; background: linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05));">
 
 <div align="center">
 
 <a href="https://github.com/etaverasx/Disinformation-Detection-in-News-Articles-Using-Machine-Learning">
-<img src="https://github.com/etaverasx/etaverasx/blob/main/Disinformation-Cover.png?raw=true" width="250" alt="Disinformation Detection ML Project">
+<img src="https://github.com/etaverasx/etaverasx/blob/main/Disinformation-Cover.png?raw=true" width="270" alt="Disinformation Detection ML Project">
 </a>
 
 ---
@@ -38,6 +37,7 @@
 </table>
 
 </div>
+
 
 
 
