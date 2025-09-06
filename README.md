@@ -1,10 +1,11 @@
-<h1 align="left">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWcwbDB3aXc5aXRzOXI1a2k3czRoNDBqa2FkZ3phdWRhMnNrMjBuMCZlcD12MV9pbnRlcm5hbF9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wtdVYmaRWJ1PyPcc8e/giphy.gif" width="100"> 
-  Hi, I'm Emmanuel!  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ttZmJ1a295djB0Mzc1czgyZmRpNTF0anhoYnZuZmJoNDV3OGZveSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SuZY20qLNE3Hq/giphy.gif" width="200"> 
-<hr style="height:1px; border:none; color:#333; background-color:#333;">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Saira+Stencil+One&weight=800&size=41&pause=1000&color=F7C5EDFF&background=FFE33400&width=480&height=63&lines=Hi%2C+I'm+Emmanuel!)](https://git.io/typing-svg)
+---
 
-   
+Welcome to my page! When I first created my GitHub account, I wasn't entirely sure how to use it. After a couple of YouTube tutorials, I began to understand its value for documenting my work.
 
+You'll find a mix of projects here. I use this space to track everything from university assignments to personal projects sparked by curiosity. Think of it as a living journal of my technical journey, mixed with plenty of gifs from my favorite media for personality.
+
+As for me, I'm a graduate student specializing in cybersecurity. I'm currently seeking new opportunities and built this portfolio to showcase the skills and projects I've developed throughout my coursework.
 
 </a><h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -15,8 +16,7 @@
 
 
 
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnoyODR2aWVsdzMxaDN0aWFuc2F6MTA2ZWIyNDY4cXB6dXhhcTJsMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zN2IXI0TEnalqdlCkZ/giphy.gif" height="70" style="vertical-align:middle;"> ⚙️ AI/ML Projects:</h2>
-
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnoyODR2aWVsdzMxaDN0aWFuc2F6MTA2ZWIyNDY4cXB6dXhhcTJsMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zN2IXI0TEnalqdlCkZ/giphy.gif" height="70" style="vertical-align:middle;"> ⚙️ AI/ML Projects</h2> 
 
 <div align="center">
 <table>
