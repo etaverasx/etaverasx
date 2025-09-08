@@ -9,7 +9,7 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
 
 </a><h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<h4>Work in Pogress</h4>
+<h4>COMING SOON</h4>
 
 
 
