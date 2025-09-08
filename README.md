@@ -7,9 +7,7 @@ You'll find a mix of projects here. I use this space to track everything from un
 
 As for me, I'm a graduate student specializing in cybersecurity. I'm currently seeking new opportunities and built this portfolio to showcase the skills and projects I've developed throughout my coursework.
 
-</a><h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<h4>COMING SOON</h4>
 
 
 
@@ -57,6 +55,12 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
 
 
 
+</a><h2>👨‍💻 Cybersecurity Projects:</h2>
+
+<div align="center">
+<h2> COMING SOON </h2>
+</div>
+
 
 
 <h2>📄 Certifications:</h2>
@@ -87,6 +91,13 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
 
 </a>
 
+
+<!-- =========================
+     Full-width Dino GIF
+========================= -->
+<div align="center">
+  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" width="100%" alt="Cute Dino">
+</div>
 
 
 
