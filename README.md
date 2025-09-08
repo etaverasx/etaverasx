@@ -66,7 +66,7 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
     <tr>
       <td align="center">
         <a href="https://github.com/etaverasx/etaverasx/blob/main/CompTIA%20Security+%20ce%20certificate.png?raw=true">
-          <img src="https://github.com/etaverasx/etaverasx/blob/main/Security+Badge.png?raw=true" width="220" alt="View Certificate" style="background-color: white;">
+          <img src="https://github.com/etaverasx/etaverasx/blob/main/Security+Badge2.png?raw=true" width="220" alt="View Certificate" style="background-color: white;">
         </a>
       </td>
       <td align="center">
