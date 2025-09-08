@@ -61,9 +61,12 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
 
 <h2>📄 Certifications:</h2>
 
- <p align="left">
+<p align="center">
   <a href="https://github.com/etaverasx/etaverasx/blob/main/CompTIA%20Security+%20ce%20certificate.png?raw=true">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c3YWlzZWt1bzQ2YzAzM241ZHd6YnkxeWx6eDhkeW0wZDIzZTNxaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0b1qyHhqfjKdnLqrF4/giphy.gif" width="300" alt="View Certificate">
+    <img src="https://github.com/etaverasx/etaverasx/blob/main/Security+Badge.png?raw=true" width="300" alt="View Certificate">
+  </a>
+  &nbsp;&nbsp;&nbsp; <a href="https://github.com/etaverasx/etaverasx/blob/main/ISC2%20-%20CC.png?raw=true">
+    <img src="https://github.com/etaverasx/etaverasx/blob/main/CC-Badge.png?raw=true" width="300" alt="View Certificate">
   </a>
 </p>
 
