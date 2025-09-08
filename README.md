@@ -66,7 +66,7 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
     <img src="https://github.com/etaverasx/etaverasx/blob/main/Security+Badge.png?raw=true" width="300" alt="View Certificate">
   </a>
   &nbsp;&nbsp;&nbsp; <a href="https://github.com/etaverasx/etaverasx/blob/main/ISC2%20-%20CC.png?raw=true">
-    <img src="https://github.com/etaverasx/etaverasx/blob/main/CC-Badge.png?raw=true" width="300" alt="View Certificate">
+    <img src="https://github.com/etaverasx/etaverasx/blob/main/CC-Badge.png?raw=true" width="250" alt="View Certificate">
   </a>
 </p>
 
