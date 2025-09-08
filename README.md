@@ -45,7 +45,7 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
     <h4>🚀 Malware Classification</h4>
     <p>
       <a href="https://github.com/etaverasx/Malware-Classification"><img src="https://img.shields.io/badge/Python-ML-3776AB?style=flat-square&logo=python"></a>
-      <a href="https://github.com/etaverasx/Malware-Classification"><img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square"></a>
+      <a href="https://github.com/etaverasx/Malware-Classification"><img src="https://img.shields.io/badge/Status-Complete-28a745?style=flat-square"></a>
     </p>
   </div>
 </td>
