@@ -23,7 +23,7 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
 <td style="border: 7px solid #ffffff; border-radius: 8px; padding: 10px; max-width: 320px; background: linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05));">
   <div align="center">
     <a href="https://github.com/etaverasx/Disinformation-Detection-in-News-Articles-Using-Machine-Learning">
-      <img src="https://github.com/etaverasx/etaverasx/blob/main/Disinformation-Cover.png?raw=true" width="310" alt="Disinformation Detection ML Project">
+      <img src="https://github.com/etaverasx/etaverasx/blob/main/Disinformation.jpg?raw=true" width="305" alt="Disinformation Detection ML Project">
     </a>
     <hr>
     <h4>🔍 Disinformation Detection</h4>
