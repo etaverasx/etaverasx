@@ -23,7 +23,7 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
 <td style="border: 7px solid #ffffff; border-radius: 8px; padding: 10px; max-width: 320px; background: linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05));">
   <div align="center">
     <a href="https://github.com/etaverasx/Disinformation-Detection-in-News-Articles-Using-Machine-Learning">
-      <img src="https://github.com/etaverasx/etaverasx/blob/main/Disinformation.jpg?raw=true" width="305" alt="Disinformation Detection ML Project">
+      <img src="https://github.com/etaverasx/etaverasx/blob/main/Images/Disinformation.jpg?raw=true" width="305" alt="Disinformation Detection ML Project">
     </a>
     <hr>
     <h4>🔍 Disinformation Detection</h4>
@@ -37,7 +37,7 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
 <td style="border: 7px solid #ffffff; border-radius: 8px; padding: 10px; max-width: 320px; background: linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05));">
   <div align="center">
     <a href="https://github.com/etaverasx/Malware-Classification">
-      <img src="https://github.com/etaverasx/etaverasx/blob/main/Malware-classification-img.png?raw=true" width="310" alt="Malware Classification Project">
+      <img src="https://github.com/etaverasx/etaverasx/blob/main/Images/Malware-classification-img.png?raw=true" width="310" alt="Malware Classification Project">
     </a>
     <hr>
     <h4>🚀 Malware Classification</h4>
@@ -84,13 +84,13 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/etaverasx/etaverasx/blob/main/CompTIA%20Security+%20ce%20certificate.png?raw=true">
-          <img src="https://github.com/etaverasx/etaverasx/blob/main/Security+Badge2.png?raw=true" width="220" alt="View Certificate" style="background-color: white;">
+        <a href="https://github.com/etaverasx/etaverasx/blob/main/Certification/CompTIA%20Security+%20ce%20certificate.png?raw=true">
+          <img src="https://github.com/etaverasx/etaverasx/blob/main/Certification/Security+Badge2.png?raw=true" width="300" alt="View Certificate" style="background-color: white;">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/etaverasx/etaverasx/blob/main/ISC2%20-%20CC.png?raw=true">
-          <img src="https://github.com/etaverasx/etaverasx/blob/main/CC-Badge2.png?raw=true" width="220" alt="View Certificate" style="background-color: white;">
+        <a href="https://github.com/etaverasx/etaverasx/blob/main/Certification/ISC2%20-%20CC.png?raw=true">
+          <img src="https://github.com/etaverasx/etaverasx/blob/main/Certification/CC-Badge2.png?raw=true" width="300" alt="View Certificate" style="background-color: white;">
         </a>
       </td>
     </tr>
