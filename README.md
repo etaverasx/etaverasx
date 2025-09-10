@@ -48,7 +48,7 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
 <td style="border: 7px solid #ffffff; border-radius: 8px; padding: 10px; max-width: 320px; background: linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05));">
   <div align="center">
     <a href="https://github.com/etaverasx/SMS-Spam">
-      <img src="https://github.com/etaverasx/etaverasx/blob/main/Malware-classification-img.png?raw=true" width="310" alt="SMS Classification">
+      <img src="https://github.com/etaverasx/etaverasx/blob/4f7e71edc849dd5076daea35e88e6715bdbde994/SMS:HAM-Cover.jpeg?raw=true" width="310" alt="SMS Classification">
     </a>
     <hr>
     <h4>🚀 SMS SPAM Classification</h4>
