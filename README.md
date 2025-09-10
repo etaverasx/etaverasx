@@ -45,12 +45,27 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
       <a href="https://github.com/etaverasx/Malware-Classification"><img src="https://img.shields.io/badge/Python-ML-3776AB?style=flat-square&logo=python"></a>
       <a href="https://github.com/etaverasx/Malware-Classification"><img src="https://img.shields.io/badge/Status-Complete-28a745?style=flat-square"></a>
     </p>
+<td style="border: 7px solid #ffffff; border-radius: 8px; padding: 10px; max-width: 320px; background: linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05));">
+  <div align="center">
+    <a href="https://github.com/etaverasx/SMS-Spam">
+      <img src="https://github.com/etaverasx/etaverasx/blob/main/Malware-classification-img.png?raw=true" width="310" alt="SMS Classification">
+    </a>
+    <hr>
+    <h4>🚀 SMS SPAM Classification</h4>
+    <p>
+      <a href="https://github.com/etaverasx/SMS-Spam"><img src="https://img.shields.io/badge/Python-ML-3776AB?style=flat-square&logo=python"></a>
+      <a href="https://github.com/etaverasx/SMS-Spam"><img src="https://img.shields.io/badge/Status-Complete-28a745?style=flat-square"></a>
+    </p>
   </div>
 </td>
 
 </tr>
 </table>
 </div>
+
+-------------
+
+
 
 
 
@@ -81,6 +96,10 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
     </tr>
   </table>
 </div>
+
+
+
+
 
 
 
