@@ -26,7 +26,7 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
       <img src="https://github.com/etaverasx/etaverasx/blob/main/Images/Disinformation.jpg?raw=true" width="305" alt="Disinformation Detection ML Project">
     </a>
     <hr>
-    <h4>🔍 Disinformation Detection</h4>
+    <h4>Disinformation Detection</h4>
     <p>
       <a href="https://github.com/etaverasx/Disinformation-Detection-in-News-Articles-Using-Machine-Learning"><img src="https://img.shields.io/badge/Python-ML-3776AB?style=flat-square&logo=python"></a>
       <a href="https://github.com/etaverasx/Disinformation-Detection-in-News-Articles-Using-Machine-Learning"><img src="https://img.shields.io/badge/Status-Complete-28a745?style=flat-square"></a>
@@ -40,7 +40,7 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
       <img src="https://github.com/etaverasx/etaverasx/blob/main/Images/Malware-classification-img.png?raw=true" width="310" alt="Malware Classification Project">
     </a>
     <hr>
-    <h4>🚀 Malware Classification</h4>
+    <h4>Malware Classification</h4>
     <p>
       <a href="https://github.com/etaverasx/Malware-Classification"><img src="https://img.shields.io/badge/Python-ML-3776AB?style=flat-square&logo=python"></a>
       <a href="https://github.com/etaverasx/Malware-Classification"><img src="https://img.shields.io/badge/Status-Complete-28a745?style=flat-square"></a>
@@ -51,7 +51,7 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
       <img src="https://github.com/etaverasx/etaverasx/blob/4f7e71edc849dd5076daea35e88e6715bdbde994/SMS:HAM-Cover.jpeg?raw=true" width="310" alt="SMS Classification">
     </a>
     <hr>
-    <h4>🚀 SMS SPAM Classification</h4>
+    <h4>SMS SPAM Classification</h4>
     <p>
       <a href="https://github.com/etaverasx/SMS-Spam"><img src="https://img.shields.io/badge/Python-ML-3776AB?style=flat-square&logo=python"></a>
       <a href="https://github.com/etaverasx/SMS-Spam"><img src="https://img.shields.io/badge/Status-Complete-28a745?style=flat-square"></a>
