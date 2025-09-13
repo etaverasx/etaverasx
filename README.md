@@ -12,8 +12,6 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
 
 
 
-
-
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnoyODR2aWVsdzMxaDN0aWFuc2F6MTA2ZWIyNDY4cXB6dXhhcTJsMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zN2IXI0TEnalqdlCkZ/giphy.gif" height="70" style="vertical-align:middle;"> ⚙️ AI/ML Projects</h2> 
 
 <div align="center">
@@ -74,7 +72,10 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
 
 <div align="center">
 <h2> COMING SOON </h2>
-</div>
+<img src="https://tryhackme-badges.s3.amazonaws.com/etaverasx.png" alt="Your Image Badge" />
+  </div>
+
+
 
 
 
