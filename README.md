@@ -73,7 +73,7 @@ As for me, I'm a graduate student specializing in cybersecurity. I'm currently s
 <div align="center">
 <h2> COMING SOON </h2>
 <img src="https://tryhackme-badges.s3.amazonaws.com/etaverasx.png" alt="Your Image Badge" />
-  </div>
+</div>
 
 
 
